@@ -1,0 +1,19 @@
+footer{
+    background-color: #181820;
+    width: 100%;
+    height: 80px;
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p, span{
+    font-size: 18px;
+    padding: 2px;
+    transition: .5s;
+}
+footer span:hover{
+    color: #116feb;
+}
